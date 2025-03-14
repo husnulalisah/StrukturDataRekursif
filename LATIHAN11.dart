@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void decToBinTail(int num, String result) {
   if (num == 0) {
